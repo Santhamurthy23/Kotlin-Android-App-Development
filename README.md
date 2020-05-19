@@ -12,3 +12,6 @@ My android app development using kotlin
 5.ColorMyview App that gives the output for constraints with different colors. #ColorMyView
 
 6.ColorMyView Altered app that gives the output of 3 colors. #ColorMyviewAltered
+
+7.Android Trivia simple quiz game with fragments and navigation features.
+
